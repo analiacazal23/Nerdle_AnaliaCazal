@@ -1,0 +1,8 @@
+Para la realización del juego se han utilizado 
+2 estructuras de datos: Un vector para la lectura de las ecuaciones
+y una matriz para el juego del tablero.
+Se eligio como tamaño de 10 para la ecuacion 
+debido a que es un string, y tiene como limitacion
+que puede ser de hasta 10 caracteres.
+Para el tablero una matriz de tamaño 10*10 tenniendo en cuenta
+que el maximo de ecuaciones es de 10 y la cantidad maxima es de 10.
